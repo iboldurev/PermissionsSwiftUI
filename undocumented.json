@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/PermissionsSwiftUI/PermissionsSwiftUI/Sources/PermissionsSwiftUI/Model/JMPermissionModel.swift",
+      "line": 51,
+      "symbol": "JMPermission.imageIcon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PermissionsSwiftUI/PermissionsSwiftUI/Sources/PermissionsSwiftUI/Model/JMPermissionModel.swift",
+      "line": 52,
+      "symbol": "JMPermission.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PermissionsSwiftUI/PermissionsSwiftUI/Sources/PermissionsSwiftUI/Model/JMPermissionModel.swift",
+      "line": 53,
+      "symbol": "JMPermission.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PermissionsSwiftUI/PermissionsSwiftUI/Sources/PermissionsSwiftUI/Model/PermissionStore.swift",
+      "line": 56,
+      "symbol": "PermissionStore.MainTexts",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PermissionsSwiftUI/PermissionsSwiftUI/Sources/PermissionsSwiftUI/Model/PermissionStore.swift",
+      "line": 214,
+      "symbol": "AllButtonColors.init(primaryColor:tertiaryColor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/PermissionsSwiftUI/PermissionsSwiftUI"
+}
